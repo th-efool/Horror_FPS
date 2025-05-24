@@ -11,7 +11,9 @@ To look at the **Source Code**,
 1) clone the repositry 
 2) download 3dAssets.zip & paste it's content into the content folder of the cloned repo
 3) and open it Unreal Engine 5.5+.
-3dAssetsZip-https://drive.google.com/drive/folders/1jhBGBf6ltoCyop8PWUh7BP16EmyjV617?usp=sharing)
+3dAssetsZip
+
+-https://drive.google.com/drive/folders/1jhBGBf6ltoCyop8PWUh7BP16EmyjV617?usp=sharing)
 
 
 
