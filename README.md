@@ -4,16 +4,13 @@
 
 This project was built in **Unreal Engine 5** with a focus on modular systems and dynamic event management to create an immersive and replayable experience with easy-to-expand systems.
 
-To Play the Game Directly, you can download and run the executable from below
-- https://drive.google.com/drive/folders/1bwhD_902zfkpq301nAY7nngzucZofkKe?usp=sharing
+To Play the Game Directly, you can download and run the executable from here: [🎮game.exe](https://drive.google.com/drive/folders/1bwhD_902zfkpq301nAY7nngzucZofkKe?usp=sharing)
 
 To look at the **Source Code**, 
 1) clone the repositry 
-2) download 3dAssets.zip & paste it's content into the content folder of the cloned repo
-3) and open it Unreal Engine 5.5+.
-3dAssetsZip
-
--https://drive.google.com/drive/folders/1jhBGBf6ltoCyop8PWUh7BP16EmyjV617?usp=sharing)
+2) download [3dAssetsZip](https://drive.google.com/drive/folders/1jhBGBf6ltoCyop8PWUh7BP16EmyjV617?usp=sharing)
+ & paste it's contents inside the `Content` **Folder** of the cloned repositry.
+3) Open the project inside Unreal Engine 5.5.4.
 
 
 
