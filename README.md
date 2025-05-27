@@ -156,3 +156,11 @@ Mirrors are computationally expensive to render, so we tried avoiding using them
 ## Technical Notes
 
 I have tried to implement **event-driven systems** instead of running things in the GameLoop Update function, due to the inefficiency of constant polling.
+
+
+
+### ⭐ **Star this repository if you found it interesting!** ⭐
+
+Made with ❤️ using Unreal Engine 5.5.4
+
+</div>
